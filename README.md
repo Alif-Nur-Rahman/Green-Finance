@@ -2,9 +2,9 @@
 
 **Hai,Sobat ETL!! 👋**
 
-Semoga kabar kalian baik dan tetap semangat selalu dalam perjalanan belajarmu 💪📚. Selamat datang di "Studi Kasus Green Finance: Analisis Proyek Bioenergi Berkelanjutan"
+Semoga kabar kalian baik dan tetap semangat selalu dalam perjalanan belajarmu 💪📚. 
 
-— repositori ini adalah bagian dari self-learning journey kita untuk mendalami green finance, atau sederhananya: menganalisis bagaimana keuangan dapat digunakan untuk membiayai proyek-proyek yang peduli terhadap lingkungan dan masyarakat 🏛️💸.
+Selamat datang di "Studi Kasus Green Finance: Analisis Proyek Bioenergi Berkelanjutan"— repositori ini adalah bagian dari self-learning journey kita untuk mendalami green finance, atau sederhananya: menganalisis bagaimana keuangan dapat digunakan untuk membiayai proyek-proyek yang peduli terhadap lingkungan dan masyarakat 🏛️💸.
 
 ## 🎯 Tujuan
 Tujuan dari proyek ini adalah:
